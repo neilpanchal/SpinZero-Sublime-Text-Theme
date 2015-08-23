@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+PALETTE
+
+YELLOW      = #B58900
+ORANGE      = #BA5400
+RED         = #B02F30
+MAGENTA     = #D14187
+VIOLET      = #9059D4
+BLUE        = #0F86D9
+CYAN        = #00A397
+GREEN       = #688A0A
+
+FOREGROUND  = #75777C
+BACKGROUND  = #282D38
+COMMENTS    = #4E4E50
+SELECTION   = #1F242F -->
+
+
 <plist version="1.0">
 <dict>
 	<key>author</key>
