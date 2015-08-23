@@ -143,7 +143,7 @@ http://ethanschoonover.com/solarized</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B38C00</string>
+				<string>#BA5400</string>
 			</dict>
 		</dict>
 		<dict>
@@ -165,7 +165,7 @@ http://ethanschoonover.com/solarized</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B58900</string>
+				<string>#0F86D9</string>
 			</dict>
 		</dict>
 		<dict>
